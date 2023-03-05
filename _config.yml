@@ -4,7 +4,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hyeonbinnn.github.io"
 
 # Author
-author-name:    Clayton Hanson
+author-name:    Hyeonbin Jeong
 author-image:   1.jpg
 author-job:     Web Developer
 author-email:   your-email@domain.com # Add your email for contant form.
